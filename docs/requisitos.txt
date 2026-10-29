@@ -1,0 +1,9 @@
+Requisitos funcionais 
+
+- Listar Produtos
+- Cadastrar Produtos
+- Editar Produtos
+- Deletar Produtos
+- Movimentar de Produtos (entrada e saída)
+- Editar a movimentação
+- Deletar a movimentação
